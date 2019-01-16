@@ -1159,7 +1159,7 @@ input, select, textarea {
 		}*/
 
 .container {
-	background-image: url("/images/mackinac-bridge-dark.jpg");
+	background-image: url("images/mackinac-bridge-dark.jpg");
 	background-repeat: no-repeat;
   	background-size: 100% 100%;
 }
